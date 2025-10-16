@@ -1,0 +1,18 @@
+Nama : Saskia Alexandra Cintami Daulay
+Kelas : XI RPL 2
+Masukkan tinggi segitiga: 10
+         *
+        ***
+       *****
+      *******
+     *********
+    ***********
+   *************
+  ***************
+ *****************
+*******************
+
+--------------------------------
+Process exited after 5.526 seconds with return value 0
+Press any key to continue . . .
+
